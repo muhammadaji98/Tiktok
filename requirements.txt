@@ -1,0 +1,14 @@
+tls_client
+base64
+pystyle
+inquirer
+threading
+selenium
+psutil
+pillow
+alive-progress
+webdriver_manager
+chromedriver_binary
+requests
+beautifulsoup4
+colorama
